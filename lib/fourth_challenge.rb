@@ -24,13 +24,13 @@ def fourth_challenge
       :heroine_friends => [
         {
           :name => "Steven",
-          :age => "17",
-          :attitude => "worried"
+          :age => "30",
+          :attitude => "confused"
         },
         {
           :name => "Nurse",
-          :age => "18",
-          :attitude => "hot-headed"
+          :age => "44",
+          :attitude => "worried"
         }
       ]
    }
